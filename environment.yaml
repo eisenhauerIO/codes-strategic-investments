@@ -1,0 +1,9 @@
+name: strategic-portfolio-allocation
+
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - python
+  - numpy
+  - scipy
